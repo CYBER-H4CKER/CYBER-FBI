@@ -31,8 +31,4 @@ $ python2 fbi.py
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !!!
 
-![](https://image.ibb.co/i4ES3U/bc.png)
-
-   ![]()
-
 INSTAGRAM:CYBER___HACKER___
