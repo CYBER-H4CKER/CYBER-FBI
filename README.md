@@ -12,7 +12,7 @@ FBI is an accurate facebook account information gathering, all sensitive informa
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/CYBER-FBI.git
+$ git clone https://github.com/CYBER-H4CKER/CYBER-FBI
 $ cd CYBER-FBI
 ```
 
